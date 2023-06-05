@@ -44,7 +44,7 @@ b. Accidentes : Fecha/Hora, Lugar de ocurrencia, Cliente.
 c. Visitas en Terreno : Fecha/Hora, Lugar y sus Revisiones.
 d. Revisiones de cada Visita : Nombre, Detalle, Estado.
 Aquí una vista preliminar del Menú :
-                        1. Guardar cliente
+            1. Guardar cliente
             2. Guardar profesional
             3. Guardar administrativo
             4. Guardar capacitación
